@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 0c8efd5563f5d8c4b84d917e226d8a06
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: '{"source":"\"use strict\";\r\nObject.defineProperty(exports, \"__esModule\",
+    { value: true });\r\nconst ZEPETO_Script_1 = require(\"ZEPETO.Script\");\r\nclass
+    CS2TS extends ZEPETO_Script_1.ZepetoScriptBehaviour {\r\n    Start() {\r\n       
+    console.log(\"TypeScript running\");\r\n    }\r\n    Update() {\r\n        console.log(this.gameObject.transform.position);\r\n   
+    }\r\n}\r\nexports.default = CS2TS;\r\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ1MyVFMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJDUzJUUy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUVBLGlEQUFxRDtBQUVyRCxNQUFxQixLQUFNLFNBQVEscUNBQXFCO0lBRXBELEtBQUs7UUFDRCxPQUFPLENBQUMsR0FBRyxDQUFDLG9CQUFvQixDQUFDLENBQUM7SUFDdEMsQ0FBQztJQUNELE1BQU07UUFDRixPQUFPLENBQUMsR0FBRyxDQUFDLElBQUksQ0FBQyxVQUFVLENBQUMsU0FBUyxDQUFDLFFBQVEsQ0FBQyxDQUFDO0lBQ3BELENBQUM7Q0FDSjtBQVJELHdCQVFDIn0=","assetPath":"Assets/CS2TS.ts","manifest":{"properties":[],"name":"CS2TS","description":""},"isCompiled":true}'
+  typescriptHash: 5ae6ed000eb9869884e156b1535df9a2
